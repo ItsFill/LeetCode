@@ -7,7 +7,7 @@ My personal journey through algorithmic challenges and technical interview prepa
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy    | 1      |
-| 🟡 Medium  | 0      |
+| 🟡 Medium  | 1      |
 | 🔴 Hard    | 0      |
 | **Total** | **1** |
 
@@ -26,6 +26,10 @@ My personal journey through algorithmic challenges and technical interview prepa
 ### Easy
 1. **[1. Two Sum](./Easy/1_Two_Sum)** - **Approach:** $O(n^2)$ Brute Force (Iterative search).
    - **Note:** Solved with a nested loop; planning an $O(n)$ Hash Map optimization.
+
+### Medium
+1. **[2. Add Two Numbers](./Medium/2_Add_Two_Numbers)** - **Approach:** $O(\max(m, n))$ Linear Traversal.
+   - **Note:** Implemented using a **Dummy Node** to simplify list construction and a **Carry** variable for digit addition logic. Managed manual memory deallocation for the helper node.
 
 ---
 
