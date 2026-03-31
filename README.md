@@ -9,7 +9,7 @@ My personal journey through algorithmic challenges and technical interview prepa
 | 🟢 Easy    | 1      |
 | 🟡 Medium  | 1      |
 | 🔴 Hard    | 0      |
-| **Total** | **1** |
+| **Total** | **2** |
 
 ---
 
