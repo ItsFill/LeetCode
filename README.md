@@ -9,7 +9,11 @@ My personal journey through algorithmic challenges and technical interview prepa
 | 🟢 Easy    | 2      |
 | 🟡 Medium  | 1      |
 | 🔴 Hard    | 0      |
+<<<<<<< HEAD
 | **Total** | **3** |
+=======
+| **Total** | **2** |
+>>>>>>> a418d9a06bf12c47cabb6846208b2cf94134900d
 
 ---
 
