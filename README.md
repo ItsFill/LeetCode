@@ -6,10 +6,10 @@ My personal journey through algorithmic challenges and technical interview prepa
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | 1      |
+| 🟢 Easy    | 2      |
 | 🟡 Medium  | 1      |
 | 🔴 Hard    | 0      |
-| **Total** | **1** |
+| **Total** | **3** |
 
 ---
 
@@ -26,6 +26,8 @@ My personal journey through algorithmic challenges and technical interview prepa
 ### Easy
 1. **[1. Two Sum](./Easy/1_Two_Sum)** - **Approach:** $O(n^2)$ Brute Force (Iterative search).
    - **Note:** Solved with a nested loop; planning an $O(n)$ Hash Map optimization.
+2. **[2. Palindrome Number]()** - **Approach:** $O(log10) Reverting the Half of the Number.
+   - **Note:** Optimized mathematical approach that compares only half of the digits to avoid integer overflow.
 
 ### Medium
 1. **[2. Add Two Numbers](./Medium/2_Add_Two_Numbers)** - **Approach:** $O(\max(m, n))$ Linear Traversal.
