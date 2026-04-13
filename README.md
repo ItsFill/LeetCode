@@ -6,13 +6,11 @@ My personal journey through algorithmic challenges and technical interview prepa
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | 2      |
+| 🟢 Easy    | 3      |
 | 🟡 Medium  | 1      |
 | 🔴 Hard    | 0      |
 <<<<<<< HEAD
-| **Total** | **3** |
-=======
-| **Total** | **2** |
+| **Total** | **4** |
 >>>>>>> a418d9a06bf12c47cabb6846208b2cf94134900d
 
 ---
@@ -32,6 +30,8 @@ My personal journey through algorithmic challenges and technical interview prepa
    - **Note:** Solved with a nested loop; planning an $O(n)$ Hash Map optimization.
 2. **[2. Palindrome Number]()** - **Approach:** $O(log10) Reverting the Half of the Number.
    - **Note:** Optimized mathematical approach that compares only half of the digits to avoid integer overflow.
+3. **[3.Roman to Integer]()** — **Approach:** O(n) Single Pass (Linear scan with look-ahead).
+    **Note:** Uses a hash map for symbol values; compares the current character with the next to handle subtractive cases (e.g., IV, XC).
 
 ### Medium
 1. **[2. Add Two Numbers](./Medium/2_Add_Two_Numbers)** - **Approach:** $O(\max(m, n))$ Linear Traversal.
