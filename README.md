@@ -32,7 +32,7 @@ My personal journey through algorithmic challenges and technical interview prepa
    - **Note:** Uses a hash map for symbol values; compares the current character with the next to handle subtractive cases (e.g., IV, XC).
 4. **[14. Longest Common Prefix](./Easy/cpp/0004-Longest-Common-Prefix/)** — **Approach:** $O(S)$ Horizontal Scanning (Squeeze method).
    - **Note:** Uses the first string as an initial prefix and iteratively shortens it until it matches the start of the next string.
-5. **[20. Valid Parentheses](./Easy/cpp/0020-Valid-Parentheses/)** — **Approach:** $O(n)$ Stack-based validation.
+5. **[20. Valid Parentheses](./Easy/cpp/0005-Valid-Parentheses/)** — **Approach:** $O(n)$ Stack-based validation.
    - **Note:** Uses a stack to ensure every closing bracket matches the most recently opened one; requires an empty stack at the end for validity.
 
 ### Medium
